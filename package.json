@@ -11,6 +11,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "inquirer": "^9.1.2",
+    "nanoid": "^4.0.0",
+    "uuid": "^9.0.0"
   }
 }
